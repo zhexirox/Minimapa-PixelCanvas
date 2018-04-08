@@ -1,4 +1,4 @@
-{{  
+{  
    "EnlaceDiscord":{  
       "name":"EnlaceDiscord.png",
       "x":-463,
@@ -20,7 +20,7 @@
       "width":130,
       "height":165
    },
-   "NAPFrancia.png":{  
+   "NAPFrancia":{  
       "name":"NAPFrancia.png",
       "x":-126,
       "y":1954,
