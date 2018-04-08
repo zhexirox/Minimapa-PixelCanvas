@@ -1,122 +1,72 @@
-{  
-   "EnlaceDiscord(-463,2062).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"EnlaceDiscord(-463,2062).png",
-      "repair":false,
+{{  
+   "EnlaceDiscord":{  
+      "name":"EnlaceDiscord.png",
       "x":-463,
       "y":2062,
       "width":80,
-      "height":22,
-      "filename":"EnlaceDiscord(-463,2062).png",
-      "priority":1
+      "height":22
    },
-   "FCpanel(332,-431).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"FCpanel(332,-431).png",
-      "repair":false,
+   "FCpanel":{  
+      "name":"FCpanel.png",
       "x":332,
       "y":-431,
       "width":75,
-      "height":75,
-      "filename":"FCpanel(332,-431).png",
-      "priority":1
+      "height":75
    },
-   "EscudoFC(-154,2145).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"EscudoFC(-154,2145).png",
-      "repair":false,
+   "EscudoFC":{  
+      "name":"EscudoFC.png",
       "x":-154,
       "y":2145,
       "width":130,
-      "height":165,
-      "filename":"EscudoFC(-154,2145).png",
-      "priority":1
+      "height":165
    },
-   "NAPFrancia(-126,1954).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"NAPFrancia(-126,1954).png",
-      "repair":false,
+   "NAPFrancia.png":{  
+      "name":"NAPFrancia.png",
       "x":-126,
       "y":1954,
       "width":60,
-      "height":41,
-      "filename":"NAPFrancia(-126,1954).png",
-      "priority":3
+      "height":41
    },
-   "NAPFrancia2(-256,1954).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"NAPFrancia2(-256,1954).png",
-      "repair":false,
+   "NAPFrancia2":{  
+      "name":"NAPFrancia2.png",
       "x":-256,
       "y":1954,
       "width":30,
-      "height":85,
-      "filename":"NAPFrancia2(-256,1954).png",
-      "priority":3
+      "height":85
    },
-   "LogoFord(-178,2334).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"LogoFord(-178,2334).png",
-      "repair":false,
+   "LogoFord":{  
+      "name":"LogoFord.png",
       "x":-178,
       "y":2334,
       "width":101,
-      "height":37,
-      "filename":"LogoFord(-178,2334).png",
-      "priority":2
+      "height":37
    },
-   "Flanders(-17,2121).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"Flanders(-17,2121).png",
-      "repair":false,
+   "Flanders":{  
+      "name":"Flanders.png",
       "x":-17,
       "y":2120,
       "width":50,
-      "height":94,
-      "filename":"Flanders(-17,2121).png",
-      "priority":2
+      "height":94
    },
-   "ColorsLion(-1471,2735).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"ColorsLion(-1471,2735).png",
-      "repair":false,
+   "ColorsLion":{  
+      "name":"ColorsLion.png",
       "x":-1471,
       "y":2735,
       "width":149,
-      "height":113,
-      "filename":"ColorsLion(-1471,2735).png",
-      "priority":1
+      "height":113
    },
-   "TetrisTitle(-421,5727).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"TetrisTitle(-421,5727).png",
-      "repair":false,
+   "TetrisTitle":{  
+      "name":"TetrisTitle.png",
       "x":-421,
       "y":5727,
       "width":242,
-      "height":336,
-      "filename":"TetrisTitle(-421,5727).png",
-      "priority":1
+      "height":336
    },
-   "PepeViyuela(-370,2166).png":{  
-      "draw":false,
-      "sha1":"",
-      "name":"PepeViyuela(-370,2166).png",
-      "repair":false,
+   "PepeViyuela":{  
+      "name":"PepeViyuela.png",
       "x":-370,
       "y":2166,
       "width":114,
-      "height":99,
-      "filename":"PepeViyuela(-370,2166).png",
-      "priority":1
+      "height":99
    }
 }
