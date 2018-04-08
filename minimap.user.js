@@ -7,8 +7,8 @@
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
 // @homepage     https://github.com/zhexirox/Minimap
-// @updateURL    https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/PixelESP.user.js
-// @downloadURL  https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/PixelESP.user.js
+// @updateURL    https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/minimap.user.js
+// @downloadURL  https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
