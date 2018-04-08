@@ -7,17 +7,18 @@
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
 // @homepage     https://github.com/zhexirox/Minimap
-// @updateURL    https://raw.githubusercontent.com/zhexirox/Minimapa-PixelCanvas/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/zhexirox/Minimapa-PixelCanvas/master/minimap.user.js
+// @updateURL    https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/PixelESP.user.js
+// @downloadURL  https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/PixelESP.user.js
 // @grant        none
 // ==/UserScript==
 
 //ref:https://stackoverflow.com/questions/4604663/download-single-files-from-github
 //github raw file url  template
 //https://raw.githubusercontent.com/user/repository/branch/filename
-//https://raw.githubusercontent.com/LowQuality/Minimap/master/README.md
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
+
+//window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
+window.baseTepmlateUrl = 'https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master';
 
 cssStyle = `
 #minimapbg {
@@ -292,7 +293,7 @@ function updateloop(){
   console.log("Updating Template List");
   // Get JSON of available templates
   var xmlhttp = new XMLHttpRequest();
-  var url = window.baseTepmlateUrl + "/templates/data.json";
+  var url = window.baseTepmlateUrl + "/api/api.json";
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       template_list = JSON.parse(this.responseText);
@@ -398,9 +399,9 @@ function loadImage(imagename){
   console.log("    Load image " + imagename);
   image_list[imagename] = new Image();
   if(cachebreaker != null)
-    image_list[imagename].src = window.baseTepmlateUrl + "/images/" + template_list[imagename].name;
+    image_list[imagename].src = window.baseTepmlateUrl + "/_templates/" + template_list[imagename].name;
   else
-    image_list[imagename].src = window.baseTepmlateUrl + "/images/" + template_list[imagename].name;
+    image_list[imagename].src = window.baseTepmlateUrl + "/_templates/" + template_list[imagename].name;
   image_list[imagename].onload = function() {
     counter += 1;
     // if last needed image loaded, start drawing
