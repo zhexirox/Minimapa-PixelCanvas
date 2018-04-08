@@ -18,7 +18,7 @@
 
 
 //window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
-window.baseTepmlateUrl = 'https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/zhexirox/Minimapa-PixelCanvas/master';
 
 cssStyle = `
 #minimapbg {
