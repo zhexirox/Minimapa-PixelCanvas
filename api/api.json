@@ -1,24 +1,129 @@
 {  
-   "EnlaceDiscord":{  
-      "name": "EnlaceDiscord.png",
-      "x": -463,
-      "y": 2062,
-      "width": 80,
-      "height": 22
+   "Alonso":{  
+      "name": "Alonso(-301,2376).png",
+      "x": -301,
+      "y": 2376,
+      "width": 101,
+      "height": 116
+   },
+   "BanderaEspaña":{  
+      "name": "BanderaEspaña(-3242,-88).png",
+      "x": -3242,
+      "y": -88,
+      "width": 93,
+      "height": 47
+   },
+   "Blas":{  
+      "name": "Blas(-799,2280).png",
+      "x": -779,
+      "y": 2280,
+      "width": 231,
+      "height": 164
+   },
+   "Campamento":{  
+      "name": "Campamento(-646,1954).png",
+      "x": -646,
+      "y": 1954,
+      "width": 135,
+      "height": 43
+   },
+   "Castillo":{  
+      "name": "Castillo(-164,2457).png",
+      "x": -164,
+      "y": 2457,
+      "width": 92,
+      "height": 156
+   },
+   "Cobra":{  
+      "name": "Cobra(-74,2337).png",
+      "x": -74,
+      "y": 2337,
+      "width": 75,
+      "height": 57
+   },
+   "Coches":{  
+      "name": "Coches(9,2504).png",
+      "x": -9,
+      "y": 2504,
+      "width": 95,
+      "height": 25
+   },
+   "EscudoFC":{  
+      "name": "EscudoFC(-154,2145).png",
+      "x": -154,
+      "y": 2145,
+      "width": 130,
+      "height": 165
+   },
+    "Fary":{  
+      "name": "Fary(-527,2306).png",
+      "x": -527,
+      "y": 2306,
+      "width": 92,
+      "height": 140
    },
    "FCpanel":{  
-      "name": "FCpanel.png",
+      "name": "FCpanel(332,-431).png",
       "x": 332,
       "y": -431,
       "width": 75,
       "height": 75
    },
-   "EscudoFC":{  
-      "name": "EscudoFC.png",
-      "x": -154,
-      "y": 2145,
-      "width": 130,
-      "height": 165
+   "Flanders":{  
+      "name": "Flanders(-248,2168).png",
+      "x": -248,
+      "y": 2168,
+      "width": 86,
+      "height": 112
+   },
+   "Flandersreportador":{  
+      "name": "Flandersreportador(-17,2121).png",
+      "x": -17,
+      "y": 2121,
+      "width": 50,
+      "height": 94
+   },
+   "Ilitri":{  
+      "name": "Ilitri(-331,2269).png",
+      "x": -331,
+      "y": 2269,
+      "width": 55,
+      "height": 91
+   },
+   "Julio":{  
+      "name": "Julio(-413,2269).png",
+      "x": -413,
+      "y": 2269,
+      "width": 61,
+      "height": 92
+   },
+   "KarlosArguiñano":{  
+      "name": "KarlosArguiñano(-424,2136).png",
+      "x": -424,
+      "y": 2136,
+      "width": 60,
+      "height": 123
+   },
+   "LogoFord":{  
+      "name": "LogoFord(-178,2334).png",
+      "x": -178,
+      "y": 2334,
+      "width": 101,
+      "height": 37
+   },
+   "Marilyn":{  
+      "name": "Marilyn(-425,2368).png",
+      "x": -425,
+      "y": 2368,
+      "width": 71,
+      "height": 81
+   },
+   "Monty":{  
+      "name": "Monty(-714,2110).png",
+      "x": -714,
+      "y": 2110,
+      "width": 188,
+      "height": 39
    },
    "NAPFrancia":{  
       "name": "NAPFrancia.png",
@@ -34,39 +139,68 @@
       "width": 30,
       "height": 85
    },
-   "LogoFord":{  
-      "name": "LogoFord.png",
-      "x": -178,
-      "y": 2334,
-      "width": 101,
-      "height": 37
+   "Panterarosa":{  
+      "name": "Panterarosa(-67,2452).png",
+      "x": -67,
+      "y": 2452,
+      "width": 168,
+      "height": 53
    },
-   "Flanders":{  
-      "name": "Flanders.png",
-      "x": -17,
-      "y": 2120,
-      "width": 50,
-      "height": 94
+   "Philipe":{  
+      "name": "Philipe(-525,2164).png",
+      "x": -525,
+      "y": 2164,
+      "width": 89,
+      "height": 142
    },
-   "ColorsLion":{  
-      "name": "ColorsLion.png",
-      "x": -1471,
-      "y": 2735,
-      "width": 149,
-      "height": 113
+   "Pikachu":{  
+      "name": "Pikachu(-631,2047).png",
+      "x": -631,
+      "y": 2047,
+      "width": 41,
+      "height": 38
    },
-   "TetrisTitle":{  
-      "name": "TetrisTitle.png",
-      "x": -421,
-      "y": 5727,
-      "width": 242,
-      "height": 336
+   "Reno":{  
+      "name": "Reno(214,2492).png",
+      "x": 214,
+      "y": 2492,
+      "width": 127,
+      "height": 181
    },
-   "PepeViyuela":{  
-      "name": "PepeViyuela.png",
+   "Shurperro":{  
+      "name": "Shurperro(-210,2360).png",
+      "x": -210,
+      "y": 2360,
+      "width": 135,
+      "height": 100
+   },
+    "Sinrostro":{  
+      "name": "Sinrostro(-587,2021).png",
+      "x": -587,
+      "y": 2021,
+      "width": 23,
+      "height": 33
+   },
+   "SpainBall":{  
+      "name": "SpainBall(-734,2223).png",
+      "x": -734,
+      "y": 2223,
+      "width": 122,
+      "height": 50
+   },
+    "Trump":{  
+      "name": "Trump(48,2237).png",
+      "x": 48,
+      "y": 2237,
+      "width": 77,
+      "height": 57
+   },
+    "Viyuela":{  
+      "name": "Viyuela(-370,2165).png",
       "x": -370,
-      "y": 2166,
-      "width": 114,
-      "height": 99
+      "y": 2165,
+      "width": 115,
+      "height": 100
    }
+   
 }
