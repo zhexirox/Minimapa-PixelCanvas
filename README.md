@@ -8,4 +8,4 @@
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 #### PASO 2: Instalar el script
-<a href="https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/minimap.user.js">download</a>
+<a href="https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/minimap.user.js">Instalar</a>
